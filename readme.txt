@@ -1,1 +1,2 @@
-creating a new branck is quick..
+creating a new branck is quick AND simple.
+
